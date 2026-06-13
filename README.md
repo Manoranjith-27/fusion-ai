@@ -30,7 +30,7 @@ Consensus Aggregation: Once workers reply, the system stitches their outputs int
 The Verdict (Judge): The aggregated answers, original question, and instructions are passed to the designated "Judge" model to render the final response.
 📦 Installation & Setup
 1. Clone the Repository
-git clone [https://github.com/jenis-das/fusion.git](https://github.com/jenis-das/fusion.git)
+git clone [https://github.com/Manoranjith-27/fusion.git](https://github.com/jenis-das/fusion.git)
 cd fusion
 2. Set Up a Virtual Environment
 python -m venv venv
